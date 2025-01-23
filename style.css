@@ -1,0 +1,44 @@
+:root {
+    font-family: 'Noto Sans', 'Noto Sans JP', 'Noto Sans KR', sans-serif;
+}
+
+/** Width **/
+@media(orientation: landscape) {
+    #article {
+        max-width: 50%;
+        min-width: 100px;
+    }
+}
+#article {
+    margin: auto;
+    max-width: 70%;
+}
+.section {
+    text-align: center;
+}
+
+#portrait, #portrait > img, #name {
+    width: 40%;
+    margin: auto;
+}
+#portrait {
+    text-align: right;
+    padding-right: 1em;
+}
+#name {
+    text-align: left;
+    padding-left: 1em;
+}
+#profile_image {
+    clip-path: circle(49% at center);
+}
+
+.container {
+    overflow: hidden;
+    text-align: center;
+    display: table;
+}
+.container_child {
+    display: table-cell;
+    vertical-align: middle;
+}

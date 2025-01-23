@@ -1,0 +1,15 @@
+{
+  "welcome_message": "Hi",
+  "about_me": "Undergraduate student, Study in Japan",
+  "history": [
+    "Computer Science, Nagoya Institute of Technology, Japan (2020. 04. - 2026. 03.)",
+    "Field Engineer (Mine), Republic of Korea Army (2021. 05. - 2022. 11.)",
+    "Gimehae Daecheong High School, Korea (2017.03. - 2020. 02.)"
+  ],
+  "interests": [
+    "Dart, Java, Python",
+    "Flutter, Android, Docker",
+    "Computer Vision",
+    "Photography (Camera: Nikon Z fc)"
+  ]
+}

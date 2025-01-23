@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en ko ja">
+    <head>
+        <meta charset="utf-8" />
+
+        <!-- Metadata -->
+        <title>KANG SAN</title>
+        <meta name="author" content="KANG SAN" />
+        <meta name="description" content="Profile page of KANG SAN" />
+
+        <!-- Noto Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap"
+              rel="stylesheet">
+
+        <!-- Theme -->
+        <link rel="stylesheet" type="text/css" href="lib/ui.css">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <div id="article">
+            <div id="profile" class="section">
+                <div class="container">
+                    <div id="portrait" class="container_child">
+                        <img id="profile_image" src="res/portrait.jpg" alt="Portrait picture of page owner"/>
+                    </div>
+                    <div id="name" class="container_child">
+                        <p class="text body large">KANG SAN</p>
+                        <p class="text body small" lang="ko">강산</p>
+                    </div>
+                </div>
+            </div>
+            <div id="contacts" class="section">
+                <div class="container">
+                    <div class="container_child">
+                        <button class="icon">
+                            <img src="brand-instagram.svg" alt="Instagram">
+                        </button>
+                    </div>
+                    <div class="container_child">
+                        <button class="icon">
+                            <img src="mail.svg" alt="Mail">
+                        </button>
+                    </div>
+                    <div class="container_child">
+                        <button class="icon">
+                            <img src="brand-github.svg" alt="Mail">
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="layout sheet outlined">
+                <h2>About me</h2>
+                <p data-i18n="about_me">about_me</p>
+                <h3>History</h3>
+                <ul data-i18n="history">
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+                <h3>Interests</h3>
+                <ul data-i18n="interests">
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </div>
+            <div class="layout sheet outlined">
+                <h2>Projects</h2>
+                <p>Hi</p>
+            </div>
+        </div>
+
+        <!-- Load UI.js -->
+        <script type="text/javascript" src="lib/ui.js"></script>
+        <script type="text/javascript" src="multilang.js"></script>
+    </body>
+</html>

@@ -2,14 +2,25 @@
   "welcome_message": "Hi",
   "about_me": "Undergraduate student, Study in Japan",
   "history": [
+    "Hontani Laboratory, Nagoya Institute of Technology, Japan (2025. 04. - )",
     "Computer Science, Nagoya Institute of Technology, Japan (2020. 04. - 2026. 03.)",
     "Field Engineer (Mine), Republic of Korea Army (2021. 05. - 2022. 11.)",
     "Gimehae Daecheong High School, Korea (2017.03. - 2020. 02.)"
   ],
   "interests": [
-    "Dart, Java, Python",
-    "Flutter, Android, Docker",
+    "Medical Image Processing",
     "Computer Vision",
+    "Dart, Java, Python, C",
+    "Flutter, Android, Docker",
     "Photography (Camera: Nikon Z fc)"
-  ]
+  ],
+  "link": {
+    "hlab": "Hontani Laboratory",
+    "nitech": "Nagoya Institute of Technology"
+  },
+  "project": {
+    "openwnn": "A fork of OpenWnn-korean project. Enhanced layout and themes.",
+    "readwikilater": "A simple Chrome extension. Add bottom bar saving wiki article to read later.",
+    "ibus": "An Linux version of Korean input method for JIS layout keyboard."
+  }
 }

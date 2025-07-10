@@ -9,7 +9,7 @@ window.addEventListener('DOMContentLoaded', async () => {
  * Load language preference
  * @returns {string}
  */
-async function loadLocale() {
+function loadLocale() {
     return localStorage.getItem('language') || (navigator.language || navigator.userLanguage).split('-')[0] || 'en';
 }
 

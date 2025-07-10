@@ -1,0 +1,26 @@
+{
+  "welcome_message": "Hi",
+  "about_me": "日本留学中の韓国人留学生です。",
+  "history": [
+    "名古屋工業大学　本谷研究室 (2025. 04. - )",
+    "名古屋工業大学　情報工学科 (2020. 04. - 2026. 03.)",
+    "大韓民国　陸軍　工兵 (2021. 05. - 2022. 11.)",
+    "Gimehae Daecheong High School, Korea (2017.03. - 2020. 02.)"
+  ],
+  "interests": [
+    "医用画像処理",
+    "コンピュータービジョン",
+    "Dart, Java, Python, C",
+    "Flutter, Android, Docker",
+    "写真撮影 (カメラ: Nikon Z fc)"
+  ],
+  "link": {
+    "hlab": "本谷研究室",
+    "nitech": "名古屋工業大学"
+  },
+  "project": {
+    "openwnn": "OpenWnn-koreanのフォークです。レイアウトおよびテーマを補強しました。",
+    "readwikilater": "Wikiの記事を後で読むためにブラウザ下のバーに保存するChrome拡張機能です。",
+    "ibus": "Linuxでハングルを入力するためのibus-hangulのJISキーボード対応バージョンです。"
+  }
+}

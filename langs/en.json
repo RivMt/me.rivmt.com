@@ -21,6 +21,7 @@
   "project": {
     "openwnn": "A fork of OpenWnn-korean project. Enhanced layout and themes.",
     "readwikilater": "A simple Chrome extension. Add bottom bar saving wiki article to read later.",
-    "ibus": "An Linux version of Korean input method for JIS layout keyboard."
+    "ibus": "An Linux version of Korean input method for JIS layout keyboard.",
+    "logcatter": "Android Logcat style log library for Python."
   }
 }

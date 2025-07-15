@@ -21,6 +21,7 @@
   "project": {
     "openwnn": "OpenWnn-koreanのフォークです。レイアウトおよびテーマを補強しました。",
     "readwikilater": "Wikiの記事を後で読むためにブラウザ下のバーに保存するChrome拡張機能です。",
-    "ibus": "Linuxでハングルを入力するためのibus-hangulのJISキーボード対応バージョンです。"
+    "ibus": "Linuxでハングルを入力するためのibus-hangulのJISキーボード対応バージョンです。",
+    "logcatter": "PythonでAndroid Logcatスタイルのログを出力するライブラリです。"
   }
 }
